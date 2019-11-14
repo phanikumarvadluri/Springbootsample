@@ -1,0 +1,1 @@
+It normal spring boot application
