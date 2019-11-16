@@ -6,6 +6,6 @@ git 'https://github.com/phanikumarvadluri/Springbootsample/'
 }
 stage('Compile Package')
 {
-sh 'mvn package'
+bat 'mvn package'
 }
 }
