@@ -11,7 +11,7 @@ public class HelloController {
 	@GetMapping("/cult")
 	public String getMap()
 	{
-		return "I will come backsdfsdf1";
+		return "I will come kfdjgjkdfj";
 	}
 
 }
